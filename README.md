@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto IAGs
 
 ## 📒 Descrição
 O presente repositório tem como objetivo a exploração das tecnologias de Inteligência Artificial Generativa, sendo todo o conteúdo presente aqui feito por uma IA deste tipo (com exceção desse README).
