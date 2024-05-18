@@ -56,6 +56,6 @@ Prompt utilizado para a criação do conteúdo da explicação sobre as IAGs do 
 - [Apresentação](https://github.com/Luana-W/lab-natty-or-not/blob/main/Resultados/Introducao-a-Inteligencia-Artificial-Generativa.pdf)
 - [Áudio A Relevância das Inteligências Artificiais Generativas em Chatbots](https://github.com/Luana-W/lab-natty-or-not/blob/main/Resultados/IAGs_Chatbots.mp3)
 - [Áudio A Importância das Inteligências Artificiais Generativas em Conversão de Texto para Fala e de Fala para Texto](https://github.com/Luana-W/lab-natty-or-not/blob/main/Resultados/AIGs_Audios.mp3)
-- [Áudio A Importância das Inteligências Artificiais Generativas em Avatares](https://github.com/Luana-W/lab-natty-or-not/blob/main/Resultados/IAGs_Avatares.mp4)
+- [Vídeo A Importância das Inteligências Artificiais Generativas em Avatares](https://github.com/Luana-W/lab-natty-or-not/blob/main/Resultados/IAGs_Avatares.mp4)
 
 ## Espero que gostem e aproveitem o projeto! &#128151;
